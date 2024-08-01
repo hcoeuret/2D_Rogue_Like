@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1553008205 source:/home/arnaudk/Documents/INSA/3EII/Projet C/Rogue_Like_Project/Clavier.c
+	"Clavier.h"
+	<stdio.h>
+
+1553008205 /home/arnaudk/Documents/INSA/3EII/Projet C/Rogue_Like_Project/Clavier.h
+
+1553008205 source:/home/arnaudk/Documents/INSA/3EII/Projet C/Rogue_Like_Project/test.c
+
+1554221537 source:/home/arnaudk/Documents/INSA/3EII/Projet C/Rogue_Like_Project/main.c
+	"Clavier.h"
+	"Salle.h"
+	"Etage.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1554221501 /home/arnaudk/Documents/INSA/3EII/Projet C/Rogue_Like_Project/Salle.h
+	"Clavier.h"
+
+1554221348 source:/home/arnaudk/Documents/INSA/3EII/Projet C/Rogue_Like_Project/Etage.c
+	"Etage.h"
+	"Salle.h"
+	"Clavier.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1554221351 /home/arnaudk/Documents/INSA/3EII/Projet C/Rogue_Like_Project/Etage.h
+	"Salle.h"
+
+1554221500 source:/home/arnaudk/Documents/INSA/3EII/Projet C/Rogue_Like_Project/Salle.c
+	"Salle.h"
+	"Clavier.h"
+	<stdio.h>
+	<stdlib.h>
+
